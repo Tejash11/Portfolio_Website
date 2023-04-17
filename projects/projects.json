@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SuperCalc-Calculator",
+    "desc": "It converts currencies, date & time, calculate measurements, estimate sales tax, perform scientific calculations, and much more. Built using Flutter, Dart, Firebase.",
+    "image": "supercalc_project",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.calculator.aioc",
+      "code": "https://github.com/Tejash11/calcy/tree/dev"
+    }
+  },
+  {
+    "name": "Instant Resume Maker",
+    "desc": "It helps you to create your professional resume in minutes. Built using Dart, Flutter Framework and Firebase.",
+    "image": "resume_project",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.app_kriti.InstantResumeMaker",
+      "code": "https://github.com/Tejash11/resume_builder"
+    }
+  },
+  {
+    "name": "VidyaVerse",
+    "desc": "Native android app built using Java, XML, Firebase & Android SDKs. Provides a revolutionary change in Knowledge reality.",
+    "image": "vidyaverse_project",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Tejash11/VidyaVerse"
+    }
+  },
+  {
+    "name": "FitJoy",
+    "desc": "Native android app built using Java, XML and Android SDKs. Provides an AR experience for Yoga and categorized exercise schedules for different age's peoples.",
+    "image": "fitjoy_project",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Tejash11/FITJoy_Yoga"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio_project",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "Mukt",
+    "desc": "Simplifying the process of reaching youth for spreading awareness regarding Nasha Mukt Bharat Abhiyan (NMBA)",
+    "image": "mukt_project",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Tejash11/Mukt"
+    }
+  }
+]
