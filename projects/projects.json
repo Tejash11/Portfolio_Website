@@ -32,7 +32,7 @@
   {
     "name": "FitJoy",
     "desc": "Native android app built using Java, XML and Android SDKs. Provides an AR experience for Yoga and categorized exercise schedules for different age's peoples.",
-    "image": "assets\images\projects\fitjoy_project.png",
+    "image": "assets/images/projects/fitjoy_project.png",
     "category": "android",
     "links": {
       "view": "#",
