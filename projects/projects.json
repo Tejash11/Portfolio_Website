@@ -2,7 +2,7 @@
   {
     "name": "SuperCalc-Calculator",
     "desc": "It converts currencies, date & time, calculate measurements, estimate sales tax, perform scientific calculations, and much more. Built using Flutter, Dart, Firebase.",
-    "image": "supercalc_project",
+    "image": "https://github.com/Tejash11/Portfolio_Website/assets/images/projects/supercalc_project.png",
     "category": "android",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.calculator.aioc",
